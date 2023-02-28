@@ -1,0 +1,16 @@
+research-request Kafka топік
+
+{
+    "chatId": 0,
+    "query": "string"
+    [
+      {
+        "itemId": "string",
+        "itemName": "string",
+        "itemPhotoURL": "string",
+        "itemPrice": 0,
+        "itemSource": "string",
+        "itemURL": "string"
+      }
+    ]
+}

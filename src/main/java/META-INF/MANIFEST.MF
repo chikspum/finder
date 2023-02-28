@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.manzhula.finder.FinderApplication
+Class-Path: spring-boot-2.7.0.jar json-20180813.jar jersey-hk2-2.35.jar 
+ osgi-resource-locator-1.0.3.jar jakarta.ws.rs-api-2.1.6.jar spring-jcl-
+ 5.3.20.jar failureaccess-1.0.1.jar spring-kafka-2.8.6.jar jackson-datab
+ ind-2.13.3.jar httpcore-4.4.15.jar commons-codec-1.15.jar hk2-api-2.6.1
+ .jar jakarta.annotation-api-1.3.5.jar logback-core-1.2.11.jar error_pro
+ ne_annotations-2.3.4.jar jakarta.validation-api-2.0.2.jar jersey-contai
+ ner-grizzly2-http-2.35.jar jersey-entity-filtering-2.35.jar jakarta.act
+ ivation-api-1.2.2.jar logback-classic-1.2.11.jar jackson-jaxrs-base-2.1
+ 3.3.jar jackson-jaxrs-json-provider-2.13.3.jar jersey-client-2.35.jar s
+ pring-core-5.3.20.jar jackson-module-jaxb-annotations-2.13.3.jar lz4-ja
+ va-1.8.0.jar httpmime-4.5.13.jar commons-io-2.11.0.jar telegrambots-met
+ a-6.0.1.jar hk2-locator-2.6.1.jar spring-boot-starter-logging-2.7.0.jar
+  jersey-server-2.35.jar log4j-to-slf4j-2.17.2.jar checker-qual-3.5.0.ja
+ r grizzly-http-server-2.4.4.jar spring-context-5.3.20.jar javassist-3.2
+ 5.0-GA.jar kafka-clients-3.1.1.jar aopalliance-repackaged-2.6.1.jar jak
+ arta.inject-2.6.1.jar jackson-core-2.13.3.jar telegrambots-6.0.1.jar gr
+ izzly-http-2.4.4.jar guava-30.0-jre.jar jackson-annotations-2.13.3.jar 
+ spring-expression-5.3.20.jar jersey-common-2.35.jar jul-to-slf4j-1.7.36
+ .jar spring-retry-1.3.3.jar snappy-java-1.1.8.4.jar lombok-1.18.24.jar 
+ hk2-utils-2.6.1.jar slf4j-api-1.7.36.jar jsr305-3.0.2.jar spring-tx-5.3
+ .20.jar snakeyaml-1.30.jar zstd-jni-1.5.0-4.jar spring-boot-autoconfigu
+ re-2.7.0.jar jersey-media-json-jackson-2.35.jar spring-messaging-5.3.20
+ .jar log4j-api-2.17.2.jar spring-boot-starter-2.7.0.jar grizzly-framewo
+ rk-2.4.4.jar spring-aop-5.3.20.jar jakarta.xml.bind-api-2.3.3.jar httpc
+ lient-4.5.13.jar listenablefuture-9999.0-empty-to-avoid-conflict-with-g
+ uava.jar j2objc-annotations-1.3.jar spring-beans-5.3.20.jar
+
